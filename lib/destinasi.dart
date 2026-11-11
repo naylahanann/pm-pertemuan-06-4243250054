@@ -43,7 +43,7 @@ const daftarDestinasi = <Destinasi>[
         'Pulau di tengah Danau Toba yang terkenal dengan keindahan alam,' 
         'suasana sejuk, dan budaya khas Batak.',
     daya: ['Desa adat', 'Kain ulos', 'Penginapan tepi danau'],
-    ikon: Icons.landscape,
+    ikon: Icons.holiday_village,
   ),
   Destinasi(
     id: 3,
