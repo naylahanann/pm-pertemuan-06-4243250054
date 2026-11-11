@@ -1,17 +1,15 @@
-# menu_umkm
+# Tugas Rutin 6 - Wisata Sumatera Utara
 
-A new Flutter project.
+## Identitas
+- Nama  : Nayla Luthfiah Hanan
+- NIM   : 4243250054
+- Kelas : Ilmu Komputer D 2024
 
-## Getting Started
+## Tangkapan layar
+(4 gambar: 360, 700, 900, 1280 dp, masing-masing diberi keterangan jumlah kolom dan jenis navigasi)
 
-This project is a starting point for a Flutter application.
+## Alasan keputusan responsif
+(tulis sendiri)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Penggunaan AI
+(tulis sendiri)
