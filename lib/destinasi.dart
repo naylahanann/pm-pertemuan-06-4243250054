@@ -29,9 +29,8 @@ const daftarDestinasi = <Destinasi>[
     lokasi: 'Kab. Samosir, Simalungun, dan sekitarnya',
     kategori: 'Alam',
     deskripsi:
-        'Danau vulkanik terbesar di Indonesia dengan Pulau Samosir di '
-        'tengahnya. Cocok untuk menikmati pemandangan, berperahu, dan '
-        'mengenal budaya Batak.',
+        'Danau vulkanik terbesar di Indonesia yang menawarkan pemandangan alam indah,'
+        'udara sejuk, serta wisata budaya Batak di Pulau Samosir.',
     daya: ['Danau vulkanik', 'Pemandangan', 'Budaya Batak'],
     ikon: Icons.water,
   ),
@@ -41,8 +40,8 @@ const daftarDestinasi = <Destinasi>[
     lokasi: 'Kab. Samosir',
     kategori: 'Budaya',
     deskripsi:
-        'Pulau di tengah Danau Toba dengan desa-desa adat Batak, kain '
-        'ulos, dan tepian danau yang tenang.',
+        'Pulau di tengah Danau Toba yang terkenal dengan keindahan alam,' 
+        'suasana sejuk, dan budaya khas Batak.',
     daya: ['Desa adat', 'Kain ulos', 'Penginapan tepi danau'],
     ikon: Icons.landscape,
   ),
@@ -52,8 +51,8 @@ const daftarDestinasi = <Destinasi>[
     lokasi: 'Kab. Langkat',
     kategori: 'Alam',
     deskripsi:
-        'Pintu masuk ke kawasan Taman Nasional Gunung Leuser, terkenal '
-        'sebagai tempat melihat orangutan Sumatra di habitat alaminya.',
+        'Destinasi wisata alam yang terkenal dengan hutan tropis,' 
+        'aliran sungai jernih, dan habitat orangutan Sumatera.',
     daya: ['Orangutan', 'Trekking hutan', 'Sungai Bahorok'],
     ikon: Icons.forest,
   ),
@@ -63,8 +62,8 @@ const daftarDestinasi = <Destinasi>[
     lokasi: 'Kab. Karo',
     kategori: 'Alam',
     deskripsi:
-        'Kota dataran tinggi berhawa sejuk dengan pasar buah, kebun, '
-        'dan pemandangan Gunung Sibayak serta Gunung Sinabung.',
+        'Kota wisata di dataran tinggi yang memiliki udara sejuk,' 
+        'pemandangan pegunungan, serta perkebunan buah dan bunga.',
     daya: ['Udara sejuk', 'Pasar buah', 'Pendakian'],
     ikon: Icons.terrain,
   ),
@@ -74,9 +73,8 @@ const daftarDestinasi = <Destinasi>[
     lokasi: 'Kota Medan',
     kategori: 'Sejarah',
     deskripsi:
-        'Istana peninggalan Kesultanan Deli yang dibangun pada akhir '
-        'abad ke-19, berpadu unsur Melayu dengan gaya arsitektur dari '
-        'berbagai budaya.',
+        'Bangunan bersejarah peninggalan Kesultanan Deli yang terkenal' 
+        'dengan arsitektur unik dan perpaduan budaya Melayu, Islam, dan Eropa.',
     daya: ['Kesultanan Deli', 'Arsitektur', 'Wisata kota'],
     ikon: Icons.account_balance,
   ),
@@ -86,9 +84,8 @@ const daftarDestinasi = <Destinasi>[
     lokasi: 'Kab. Karo',
     kategori: 'Alam',
     deskripsi:
-        'Air terjun di ujung utara Danau Toba yang jatuh dari tebing '
-        'tinggi, dengan titik pandang untuk melihat danau dan lembah '
-        'di sekitarnya.',
+        'Air terjun yang terkenal dengan ketinggiannya dan' 
+        'pemandangan alam yang indah menghadap kawasan Danau Toba.',
     daya: ['Air terjun', 'Titik pandang', 'Pemandangan'],
     ikon: Icons.waterfall_chart,
   ),
@@ -98,8 +95,8 @@ const daftarDestinasi = <Destinasi>[
     lokasi: 'Kota Medan',
     kategori: 'Religi',
     deskripsi:
-        'Masjid bersejarah di pusat Kota Medan peninggalan Kesultanan '
-        'Deli dengan kubah dan ornamen yang khas.',
+        'Masjid bersejarah di Kota Medan dengan arsitektur megah' 
+        'yang memadukan gaya Melayu, Timur Tengah, dan India.',
     daya: ['Masjid bersejarah', 'Arsitektur', 'Wisata religi'],
     ikon: Icons.mosque,
   ),
